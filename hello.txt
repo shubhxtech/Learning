@@ -1,1 +1,1 @@
-hello this is my git learning session and now i am modifying it lets see if commits works. I am making some changes from the user side.
+hello this is my git learning session and now i am modifying it lets see if commits works. I am making some changes from the user side. I am intentionally doing merge conflicts
